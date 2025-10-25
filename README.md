@@ -8,6 +8,7 @@
 ## Explicación del SRC
 Appbank: este bloque de código sirve como un pequeño arrancador del Spring este define donde esta 
 como se llama y le indica al spring boot que configure y ejecute.
+<img width="577" height="256" alt="image" src="https://github.com/user-attachments/assets/8120d6b5-b22e-48ca-b0d1-91980bccf526" />
 
 ### Bankcontroller: 
 este es el traductor entre peticiones externas (HTTP) y las peticiones de bankservice haciendo este que la aplicación responda correctamente con los datos solicitados ampliando estos métodos que son los que definen las operaciones financieras.
