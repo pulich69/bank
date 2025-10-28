@@ -210,6 +210,13 @@ Se aplicaron:
 * **Arquitectura en Capas (Controller, Service, Model, Repository)**
 
 ---
+<img width="1078" height="608" alt="image" src="https://github.com/user-attachments/assets/7d3c00f1-0a04-4774-a404-0eb7c63448e0" />
+<img width="1080" height="606" alt="image" src="https://github.com/user-attachments/assets/750e74b3-6982-4be5-aa07-5af3b1c9ff66" />
+<img width="1079" height="611" alt="image" src="https://github.com/user-attachments/assets/ded32b46-0b0f-4243-86c9-de9a80ddbfe5" />
+<img width="1077" height="607" alt="image" src="https://github.com/user-attachments/assets/303e3545-2037-4b74-821b-95c942c206f1" />
+
+
+
 
 ¿Quieres que te lo deje listo con formato para copiar y pegar directamente en un archivo `README.md` (con emojis y resaltado de código incluido)? Puedo generártelo en formato GitHub-friendly.
 
