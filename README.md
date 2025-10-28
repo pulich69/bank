@@ -218,7 +218,7 @@ Se aplicaron:
 
 
 
-¿Quieres que te lo deje listo con formato para copiar y pegar directamente en un archivo `README.md` (con emojis y resaltado de código incluido)? Puedo generártelo en formato GitHub-friendly.
+
 
 
 
