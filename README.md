@@ -1,7 +1,6 @@
 # Explicacion del codigo Bank
 ## Pasos para ejecutar el banco
 1. Abre el código en Visual Studio Code.
-   <img width="921" height="518" alt="image" src="https://github.com/user-attachments/assets/4a1924a7-9611-4ec7-a194-1963cc45b9d0" />
 
 3. Buscar el archivo que hace de "arrancador" (AppbankApplication.java).
 4. Dale al botón de "Ejecutar"
