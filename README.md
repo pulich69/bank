@@ -215,7 +215,8 @@ Se aplicaron:
 <img width="1079" height="611" alt="image" src="https://github.com/user-attachments/assets/ded32b46-0b0f-4243-86c9-de9a80ddbfe5" />
 <img width="1077" height="607" alt="image" src="https://github.com/user-attachments/assets/303e3545-2037-4b74-821b-95c942c206f1" />
 
-
+## 🧩Evidencias swagge
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f294ac65-e613-4f9e-82ea-47222871a2ba" />
 
 
 
