@@ -226,7 +226,7 @@ Se aplicaron:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9fbc240-9433-473f-86d4-e6ef2001cd6a" />
 <img width="1920" height="1072" alt="image" src="https://github.com/user-attachments/assets/832d0422-0937-4865-a2c5-fd9390e2a42f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/171042ab-22c4-4c46-9e20-93bce5117b8d" />
-...
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/a6b1fb59-665a-465b-bcf2-97bc67ec126e" />
 <img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cf1b1f7-dd70-4800-b829-9b974b2472e2" />
 <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/5807ec8e-7e8c-41c2-9f6e-84d3842682fc" />
 
