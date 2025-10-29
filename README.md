@@ -211,6 +211,9 @@ Se aplicaron:
 
 ---
 ## 🧩Evidencias POSTMAN
+
+
+
 <img width="1078" height="608" alt="image" src="https://github.com/user-attachments/assets/7d3c00f1-0a04-4774-a404-0eb7c63448e0" />
 <img width="1080" height="606" alt="image" src="https://github.com/user-attachments/assets/750e74b3-6982-4be5-aa07-5af3b1c9ff66" />
 <img width="1079" height="611" alt="image" src="https://github.com/user-attachments/assets/ded32b46-0b0f-4243-86c9-de9a80ddbfe5" />
@@ -230,6 +233,9 @@ Se aplicaron:
 
 
 ## 🧩Evidencias swagge
+
+
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f745a6d-fc3a-4537-a57e-480a8401a5c2" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9fbc240-9433-473f-86d4-e6ef2001cd6a" />
