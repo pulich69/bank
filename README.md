@@ -246,6 +246,8 @@ Se aplicaron:
 <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/5807ec8e-7e8c-41c2-9f6e-84d3842682fc" />
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/2ce44e9d-91ed-4acb-a3ed-9864b3c01587" />
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/26383bda-fdfc-4835-9b5e-51babca5ad00" />
+
 
 
 
