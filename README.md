@@ -214,6 +214,15 @@ Se aplicaron:
 <img width="1080" height="606" alt="image" src="https://github.com/user-attachments/assets/750e74b3-6982-4be5-aa07-5af3b1c9ff66" />
 <img width="1079" height="611" alt="image" src="https://github.com/user-attachments/assets/ded32b46-0b0f-4243-86c9-de9a80ddbfe5" />
 <img width="1077" height="607" alt="image" src="https://github.com/user-attachments/assets/303e3545-2037-4b74-821b-95c942c206f1" />
+...
+<img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/0627999e-4fb3-46d9-a2cb-b4d730c2815d" />
+<img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/7a98fdc4-c956-4998-ac74-336d3261b1b1" />
+<img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/7e2fa106-2261-4fa6-919d-374836f66add" />
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/441d15c6-3056-4660-b42c-7a7b66b1db5c" />
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/ca38759a-19a3-4284-8bdd-d004d3471a4f" />
+<img width="1920" height="971" alt="image" src="https://github.com/user-attachments/assets/fab034c3-411a-4d29-b779-eaebdd0ec884" />
+
+
 
 ## 🧩Evidencias swagge
 
