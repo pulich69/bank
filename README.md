@@ -217,6 +217,24 @@ Se aplicaron:
 
 ## 🧩Evidencias swagge
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f294ac65-e613-4f9e-82ea-47222871a2ba" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c46ff7c-0cb5-445b-8c7e-030d7c74bc35" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1479f8b-ee90-41e7-a104-1f95f501050e" />
+
+
+2.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f745a6d-fc3a-4537-a57e-480a8401a5c2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9fbc240-9433-473f-86d4-e6ef2001cd6a" />
+<img width="1920" height="1072" alt="image" src="https://github.com/user-attachments/assets/832d0422-0937-4865-a2c5-fd9390e2a42f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/171042ab-22c4-4c46-9e20-93bce5117b8d" />
+...
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cf1b1f7-dd70-4800-b829-9b974b2472e2" />
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/5807ec8e-7e8c-41c2-9f6e-84d3842682fc" />
+
+
+
+
+
+
 
 
 
